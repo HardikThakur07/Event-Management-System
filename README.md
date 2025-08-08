@@ -1,4 +1,3 @@
-# Event-Management-FullStack
 # Event Management System
 
 Welcome to the Event Management System! This project allows users to perform basic event management tasks, such as creating and managing events. 
@@ -79,9 +78,3 @@ To manage events:
 
 - Navigate to the "Upcoming Events" section.
 - Here, you can view, or delete your created events.
-
-## Contributing
-Feel free to contribute to the development of this project! Check out the contributing guidelines for more information.
-
-
-
